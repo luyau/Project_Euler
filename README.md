@@ -1,1 +1,1 @@
-# Projec_Euler
+# Project_Euler
